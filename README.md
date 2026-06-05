@@ -54,7 +54,7 @@ This program demonstrates different types of operators in Python, including arit
 
 ## Sample Output
 
-```text
+
 6
 2
 8
@@ -91,6 +91,5 @@ True
 False
 
 big
-
 ## Author
 Jasmitha

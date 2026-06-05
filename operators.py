@@ -46,5 +46,5 @@ v=["apple","banana"]
 print("apple" in v)
 print("banana" not in v)
 #ternary
-q=80
-"big" if q>60 else "small
+q = 80
+print("big" if q > 60 else "small")
